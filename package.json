@@ -1,7 +1,7 @@
 {
   "name": "ts-test",
   "version": "0.1.0",
-  "description": "DiscordTS first try",
+  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsx watch src/index.ts",
@@ -9,7 +9,7 @@
     "start": "node ."
   },
   "keywords": [],
-  "author": "zzzJe",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "commandkit": "^0.1.10",
